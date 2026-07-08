@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/anushaazmeera006-create/DSA/tree/master/0039-combination-sum) |
 | [0455-assign-cookies](https://github.com/anushaazmeera006-create/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/anushaazmeera006-create/DSA/tree/master/0860-lemonade-change) |
 ## Greedy
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anushaazmeera006-create/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/anushaazmeera006-create/DSA/tree/master/3870-count-commas-in-range) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/anushaazmeera006-create/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
