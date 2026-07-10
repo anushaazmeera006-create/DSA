@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/anushaazmeera006-create/DSA/tree/master/0342-power-of-four) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anushaazmeera006-create/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/anushaazmeera006-create/DSA/tree/master/3870-count-commas-in-range) |
 ## Backtracking
@@ -35,4 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anushaazmeera006-create/DSA/tree/master/0078-subsets) |
+| [0342-power-of-four](https://github.com/anushaazmeera006-create/DSA/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/anushaazmeera006-create/DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
