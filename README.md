@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anushaazmeera006-create/DSA/tree/master/0078-subsets) |
 | [0455-assign-cookies](https://github.com/anushaazmeera006-create/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/anushaazmeera006-create/DSA/tree/master/0860-lemonade-change) |
+| [1331-rank-transform-of-an-array](https://github.com/anushaazmeera006-create/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/anushaazmeera006-create/DSA/tree/master/0455-assign-cookies) |
+| [1331-rank-transform-of-an-array](https://github.com/anushaazmeera006-create/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/anushaazmeera006-create/DSA/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anushaazmeera006-create/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/anushaazmeera006-create/DSA/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
