@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/anushaazmeera006-create/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anushaazmeera006-create/DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anushaazmeera006-create/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/anushaazmeera006-create/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
