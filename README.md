@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anushaazmeera006-create/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/anushaazmeera006-create/DSA/tree/master/0860-lemonade-change) |
 | [1331-rank-transform-of-an-array](https://github.com/anushaazmeera006-create/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anushaazmeera006-create/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -18,17 +19,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/anushaazmeera006-create/DSA/tree/master/0455-assign-cookies) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anushaazmeera006-create/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/anushaazmeera006-create/DSA/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/anushaazmeera006-create/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anushaazmeera006-create/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/anushaazmeera006-create/DSA/tree/master/0342-power-of-four) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anushaazmeera006-create/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anushaazmeera006-create/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anushaazmeera006-create/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/anushaazmeera006-create/DSA/tree/master/3870-count-commas-in-range) |
 ## Backtracking
 |  |
@@ -92,4 +96,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anushaazmeera006-create/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anushaazmeera006-create/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anushaazmeera006-create/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
