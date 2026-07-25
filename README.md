@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anushaazmeera006-create/DSA/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushaazmeera006-create/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/anushaazmeera006-create/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/anushaazmeera006-create/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anushaazmeera006-create/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1175-prime-arrangements](https://github.com/anushaazmeera006-create/DSA/tree/master/1175-prime-arrangements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushaazmeera006-create/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anushaazmeera006-create/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/anushaazmeera006-create/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anushaazmeera006-create/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anushaazmeera006-create/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anushaazmeera006-create/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
