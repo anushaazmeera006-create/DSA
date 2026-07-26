@@ -1,23 +1,30 @@
-// class Solution {
-// public:
-//     int maxProduct(int n) {
-        
-//     }
-// };
 class Solution {
 public:
     int maxProduct(int n) {
-        int max1 = 0, max2 = 0;
+         vector<int>arr;
+      while(n!=0){
+         arr.push_back(n%10);
+        n=n/10;
 
-        for (; n; n /= 10) {
-            int d = n % 10;
-            if (d >= max1) {
-                max2 = max1;
-                max1 = d;
-            } else if (d > max2) 
-                max2 = d;
-        }
-
-        return max1 * max2;
+      }  
+       sort(arr.begin(),arr.end());
+       return arr[arr.size()-1]*arr[arr.size()-2];
     }
 };
+// class Solution {
+// public:
+//     int maxProduct(int n) {
+//         int max1 = 0, max2 = 0;
+
+//         for (; n; n /= 10) {
+//             int d = n % 10;
+//             if (d >= max1) {
+//                 max2 = max1;
+//                 max1 = d;
+//             } else if (d > max2) 
+//                 max2 = d;
+//         }
+
+//         return max1 * max2;
+//     }
+// };
