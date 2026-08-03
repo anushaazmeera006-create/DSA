@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/anushaazmeera006-create/DSA/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/anushaazmeera006-create/DSA/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/anushaazmeera006-create/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/anushaazmeera006-create/DSA/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/anushaazmeera006-create/DSA/tree/master/0045-jump-game-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushaazmeera006-create/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0678-valid-parenthesis-string](https://github.com/anushaazmeera006-create/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -186,8 +188,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushaazmeera006-create/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0678-valid-parenthesis-string](https://github.com/anushaazmeera006-create/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Binary Search
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/anushaazmeera006-create/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/anushaazmeera006-create/DSA/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/anushaazmeera006-create/DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
