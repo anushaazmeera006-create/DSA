@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/anushaazmeera006-create/DSA/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/anushaazmeera006-create/DSA/tree/master/0045-jump-game-ii) |
+| [0057-insert-interval](https://github.com/anushaazmeera006-create/DSA/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/anushaazmeera006-create/DSA/tree/master/0078-subsets) |
 | [0347-top-k-frequent-elements](https://github.com/anushaazmeera006-create/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/anushaazmeera006-create/DSA/tree/master/0455-assign-cookies) |
