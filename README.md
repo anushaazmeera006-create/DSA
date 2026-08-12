@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anushaazmeera006-create/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/anushaazmeera006-create/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anushaazmeera006-create/DSA/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/anushaazmeera006-create/DSA/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushaazmeera006-create/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/anushaazmeera006-create/DSA/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/anushaazmeera006-create/DSA/tree/master/0860-lemonade-change) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/anushaazmeera006-create/DSA/tree/master/0045-jump-game-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushaazmeera006-create/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anushaazmeera006-create/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/anushaazmeera006-create/DSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/anushaazmeera006-create/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Breadth-First Search
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anushaazmeera006-create/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/anushaazmeera006-create/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/anushaazmeera006-create/DSA/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/anushaazmeera006-create/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anushaazmeera006-create/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anushaazmeera006-create/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/anushaazmeera006-create/DSA/tree/master/0733-flood-fill) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anushaazmeera006-create/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/anushaazmeera006-create/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/anushaazmeera006-create/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/anushaazmeera006-create/DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
