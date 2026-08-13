@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/anushaazmeera006-create/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/anushaazmeera006-create/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/anushaazmeera006-create/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/anushaazmeera006-create/DSA/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anushaazmeera006-create/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/anushaazmeera006-create/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anushaazmeera006-create/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/anushaazmeera006-create/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/anushaazmeera006-create/DSA/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushaazmeera006-create/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/anushaazmeera006-create/DSA/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/anushaazmeera006-create/DSA/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushaazmeera006-create/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/anushaazmeera006-create/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/anushaazmeera006-create/DSA/tree/master/1020-number-of-enclaves) |
 ## Enumeration
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/anushaazmeera006-create/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anushaazmeera006-create/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anushaazmeera006-create/DSA/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/anushaazmeera006-create/DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -256,4 +260,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/anushaazmeera006-create/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/anushaazmeera006-create/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/anushaazmeera006-create/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/anushaazmeera006-create/DSA/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
