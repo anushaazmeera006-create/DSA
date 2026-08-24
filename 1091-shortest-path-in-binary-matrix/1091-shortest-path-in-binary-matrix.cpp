@@ -1,52 +1,88 @@
+
+// class Solution {
+// public:
+//  int shortestPathBinaryMatrix(vector<vector<int>>& grid){
+    
+//         queue<pair<int, pair<int,int>>> q;
+//         int n = grid.size();
+//         int m = grid[0].size();
+
+//         if (grid[0][0] == 1 || grid[n-1][n-1] == 1)
+//             return -1;
+
+//         vector<vector<int>>dist(n,vector<int>(m,1e9));
+  
+//         int drow[] = {-1,-1,-1,0,0,1,1,1};
+//         int dcol[] = {-1,0,1,-1,1,-1,0,1};
+//         q.push({0,{0,0}});
+//         while(!q.empty()){
+//             auto it = q.front();
+//              q.pop();
+//             int dis=it.first;
+
+//             int r= it.second.first;
+//             int c = it.second.second;
+//               if(r==m-1 &&c==n-1){
+//                         return dis;
+//                     }
+//             for(int i=0;i<8;i++){
+//                 int nrow=r+drow[i];
+//                 int ncol = c+dcol[i];
+//                 if(nrow>=0&&nrow<m&&ncol>-0&&ncol<n&&grid[nrow][ncol]==1&&dis+1<grid[nrow][ncol]){
+
+//                    grid[nrow][ncol]= dis+1;
+//                    q.push({dis+1,{nrow,ncol}});
+//                 }
+//             }
+//         }
+//         return -1;
+//     }
+// };
 class Solution {
 public:
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
         int n = grid.size();
 
-        // Step 1: Impossible start/end cases
         if (grid[0][0] == 1 || grid[n-1][n-1] == 1)
             return -1;
 
-        // Special case: single cell grid
-        if (n == 1)
-            return 1;
+        queue<pair<int, pair<int,int>>> q;
 
-        // Step 2: 8 directions (rowChange, colChange)
-        vector<pair<int, int>> dirs = {
-            {-1, -1}, {-1, 0}, {-1, 1},
-            {0, -1},           {0, 1},
-            {1, -1},  {1, 0},  {1, 1}
-        };
+        vector<vector<int>> dist(n, vector<int>(n, 1e9));
 
-        // Step 3: BFS setup
-        queue<array<int, 3>> q; // {row, col, dist}
-        vector<vector<bool>> visited(n, vector<bool>(n, false));
+        int drow[] = {-1,-1,-1,0,0,1,1,1};
+        int dcol[] = {-1,0,1,-1,1,-1,0,1};
 
-        q.push({0, 0, 1});
-        visited[0][0] = true;
+        q.push({1, {0,0}});
+        dist[0][0] = 1;
 
-        // Step 4: BFS loop
         while (!q.empty()) {
-            auto [r, c, dist] = q.front();
+            auto it = q.front();
             q.pop();
 
-            // Destination reached
-            if (r == n - 1 && c == n - 1)
-                return dist;
+            int dis = it.first;
+            int r = it.second.first;
+            int c = it.second.second;
 
-            // Try all 8 directions
-            for (auto [dr, dc] : dirs) {
-                int nr = r + dr, nc = c + dc;
-                // Check bounds, open cell, not visited
-                if (nr >= 0 && nr < n && nc >= 0 && nc < n &&
-                    grid[nr][nc] == 0 && !visited[nr][nc]) {
-                    visited[nr][nc] = true;
-                    q.push({nr, nc, dist + 1});
+            if (r == n-1 && c == n-1)
+                return dis;
+
+            for (int i = 0; i < 8; i++) {
+                int nrow = r + drow[i];
+                int ncol = c + dcol[i];
+
+                if (nrow >= 0 && nrow < n &&
+                    ncol >= 0 && ncol < n &&
+                    grid[nrow][ncol] == 0 &&
+                    dis + 1 < dist[nrow][ncol]) {
+
+                    dist[nrow][ncol] = dis + 1;
+
+                    q.push({dis + 1, {nrow, ncol}});
                 }
             }
         }
 
-        // Step 5: No path found
         return -1;
     }
 };
