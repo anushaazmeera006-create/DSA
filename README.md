@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/anushaazmeera006-create/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anushaazmeera006-create/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushaazmeera006-create/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/anushaazmeera006-create/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushaazmeera006-create/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushaazmeera006-create/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anushaazmeera006-create/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/anushaazmeera006-create/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushaazmeera006-create/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/anushaazmeera006-create/DSA/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/anushaazmeera006-create/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/anushaazmeera006-create/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/anushaazmeera006-create/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anushaazmeera006-create/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/anushaazmeera006-create/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Enumeration
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anushaazmeera006-create/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushaazmeera006-create/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/anushaazmeera006-create/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/anushaazmeera006-create/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/anushaazmeera006-create/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Stack
 |  |
 | ------- |
@@ -273,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/anushaazmeera006-create/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/anushaazmeera006-create/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/anushaazmeera006-create/DSA/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/anushaazmeera006-create/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -291,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/anushaazmeera006-create/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/anushaazmeera006-create/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anushaazmeera006-create/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/anushaazmeera006-create/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -321,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/anushaazmeera006-create/DSA/tree/master/0802-find-eventual-safe-states) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/anushaazmeera006-create/DSA/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
