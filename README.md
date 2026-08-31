@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/anushaazmeera006-create/DSA/tree/master/0342-power-of-four) |
+| [0400-nth-digit](https://github.com/anushaazmeera006-create/DSA/tree/master/0400-nth-digit) |
 | [0509-fibonacci-number](https://github.com/anushaazmeera006-create/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushaazmeera006-create/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anushaazmeera006-create/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0400-nth-digit](https://github.com/anushaazmeera006-create/DSA/tree/master/0400-nth-digit) |
 | [1004-max-consecutive-ones-iii](https://github.com/anushaazmeera006-create/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/anushaazmeera006-create/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Stack
