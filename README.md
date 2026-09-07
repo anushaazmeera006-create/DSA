@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anushaazmeera006-create/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushaazmeera006-create/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/anushaazmeera006-create/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1672-richest-customer-wealth](https://github.com/anushaazmeera006-create/DSA/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushaazmeera006-create/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushaazmeera006-create/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anushaazmeera006-create/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/anushaazmeera006-create/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anushaazmeera006-create/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/anushaazmeera006-create/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1672-richest-customer-wealth](https://github.com/anushaazmeera006-create/DSA/tree/master/1672-richest-customer-wealth) |
 ## Graph Coloring
 |  |
 | ------- |
