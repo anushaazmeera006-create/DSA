@@ -373,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anushaazmeera006-create/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/anushaazmeera006-create/DSA/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
