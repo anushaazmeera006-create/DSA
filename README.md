@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/anushaazmeera006-create/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anushaazmeera006-create/DSA/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/anushaazmeera006-create/DSA/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anushaazmeera006-create/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/anushaazmeera006-create/DSA/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/anushaazmeera006-create/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/anushaazmeera006-create/DSA/tree/master/0136-single-number) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anushaazmeera006-create/DSA/tree/master/0045-jump-game-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anushaazmeera006-create/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushaazmeera006-create/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/anushaazmeera006-create/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/anushaazmeera006-create/DSA/tree/master/0198-house-robber) |
