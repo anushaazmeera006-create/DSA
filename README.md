@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anushaazmeera006-create/DSA/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/anushaazmeera006-create/DSA/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/anushaazmeera006-create/DSA/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/anushaazmeera006-create/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/anushaazmeera006-create/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/anushaazmeera006-create/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/anushaazmeera006-create/DSA/tree/master/0198-house-robber) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anushaazmeera006-create/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/anushaazmeera006-create/DSA/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/anushaazmeera006-create/DSA/tree/master/0342-power-of-four) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anushaazmeera006-create/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anushaazmeera006-create/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
