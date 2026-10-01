@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushaazmeera006-create/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/anushaazmeera006-create/DSA/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/anushaazmeera006-create/DSA/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anushaazmeera006-create/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/anushaazmeera006-create/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -296,10 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anushaazmeera006-create/DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anushaazmeera006-create/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anushaazmeera006-create/DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anushaazmeera006-create/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Quicksort
 |  |
