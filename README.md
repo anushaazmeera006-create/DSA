@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/anushaazmeera006-create/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/anushaazmeera006-create/DSA/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/anushaazmeera006-create/DSA/tree/master/0860-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/anushaazmeera006-create/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anushaazmeera006-create/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/anushaazmeera006-create/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/anushaazmeera006-create/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anushaazmeera006-create/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anushaazmeera006-create/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anushaazmeera006-create/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0904-fruit-into-baskets](https://github.com/anushaazmeera006-create/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anushaazmeera006-create/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/anushaazmeera006-create/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushaazmeera006-create/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushaazmeera006-create/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/anushaazmeera006-create/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anushaazmeera006-create/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anushaazmeera006-create/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anushaazmeera006-create/DSA/tree/master/1248-count-number-of-nice-subarrays) |
