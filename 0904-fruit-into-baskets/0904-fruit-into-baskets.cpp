@@ -7,9 +7,9 @@ public:
        unordered_map<int,int>mp;
        while(r<fruits.size()){
           mp[fruits[r]]++; 
-           // if(mp.size()==2){
-            
-            
+            if(mp.size()<=2){
+            mx = max(mx,r-l+1);
+            }
             while(mp.size()>2){
               mp[fruits[l]]--;
               if(mp[fruits[l]]==0){
@@ -17,7 +17,7 @@ public:
               }
               l++;
             }
-             mx = max(mx,r-l+1);
+             
              r++;
        }
        return mx;
