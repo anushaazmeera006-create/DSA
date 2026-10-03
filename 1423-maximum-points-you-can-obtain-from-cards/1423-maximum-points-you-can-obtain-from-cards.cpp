@@ -24,29 +24,47 @@
 //      return sum;
 //     }
 // };
+// class Solution {
+// public:
+//     int maxScore(vector<int>& cardPoints, int k) {
+//         int n = cardPoints.size();
+
+//         int sum =0;
+//          int i =0;
+//          int fsum =0;
+//        while(i<k){
+//         sum =sum+cardPoints[i];
+//         i++;
+//        }
+//        fsum = sum;
+//         int j = n-1;
+//         i=k-1;
+//         while(i>=0){
+//           sum = sum-cardPoints[i];
+//           sum= sum+cardPoints[j];
+   
+//         fsum= max(fsum,sum);
+//            j--;
+//           i--;
+//        }
+//        return fsum;
+//     }
+// };
 class Solution {
 public:
     int maxScore(vector<int>& cardPoints, int k) {
-        int n = cardPoints.size();
-
         int sum =0;
-         int i =0;
-         int fsum =0;
-       while(i<k){
-        sum =sum+cardPoints[i];
-        i++;
+        int p=0;
+        while(p<k){
+         sum =sum+cardPoints[p];
+         p++;
+        }
+        int maxsum =sum;
+       for(int i =k-1;i>=0;i--){
+              sum-=cardPoints[i];
+            sum+=cardPoints[cardPoints.size()-k+i];
+            maxsum = max(sum,maxsum);
        }
-       fsum = sum;
-        int j = n-1;
-        i=k-1;
-        while(i>=0){
-          sum = sum-cardPoints[i];
-          sum= sum+cardPoints[j];
-   
-        fsum= max(fsum,sum);
-           j--;
-          i--;
-       }
-       return fsum;
+     return maxsum;
     }
 };
