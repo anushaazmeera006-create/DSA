@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anushaazmeera006-create/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anushaazmeera006-create/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anushaazmeera006-create/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/anushaazmeera006-create/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/anushaazmeera006-create/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anushaazmeera006-create/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/anushaazmeera006-create/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushaazmeera006-create/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/anushaazmeera006-create/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/anushaazmeera006-create/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anushaazmeera006-create/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anushaazmeera006-create/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushaazmeera006-create/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/anushaazmeera006-create/DSA/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/anushaazmeera006-create/DSA/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/anushaazmeera006-create/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anushaazmeera006-create/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/anushaazmeera006-create/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anushaazmeera006-create/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
