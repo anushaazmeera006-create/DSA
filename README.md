@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anushaazmeera006-create/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/anushaazmeera006-create/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anushaazmeera006-create/DSA/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/anushaazmeera006-create/DSA/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/anushaazmeera006-create/DSA/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushaazmeera006-create/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/anushaazmeera006-create/DSA/tree/master/0724-find-pivot-index) |
