@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anushaazmeera006-create/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/anushaazmeera006-create/DSA/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/anushaazmeera006-create/DSA/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/anushaazmeera006-create/DSA/tree/master/0056-merge-intervals) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anushaazmeera006-create/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/anushaazmeera006-create/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anushaazmeera006-create/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anushaazmeera006-create/DSA/tree/master/0344-reverse-string) |
