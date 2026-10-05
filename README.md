@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/anushaazmeera006-create/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/anushaazmeera006-create/DSA/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushaazmeera006-create/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anushaazmeera006-create/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushaazmeera006-create/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anushaazmeera006-create/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anushaazmeera006-create/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/anushaazmeera006-create/DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/anushaazmeera006-create/DSA/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anushaazmeera006-create/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anushaazmeera006-create/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anushaazmeera006-create/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anushaazmeera006-create/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anushaazmeera006-create/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anushaazmeera006-create/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
