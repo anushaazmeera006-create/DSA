@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/anushaazmeera006-create/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anushaazmeera006-create/DSA/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/anushaazmeera006-create/DSA/tree/master/0078-subsets) |
+| [0119-pascals-triangle-ii](https://github.com/anushaazmeera006-create/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushaazmeera006-create/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/anushaazmeera006-create/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/anushaazmeera006-create/DSA/tree/master/0130-surrounded-regions) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anushaazmeera006-create/DSA/tree/master/0045-jump-game-ii) |
+| [0119-pascals-triangle-ii](https://github.com/anushaazmeera006-create/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushaazmeera006-create/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushaazmeera006-create/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/anushaazmeera006-create/DSA/tree/master/0152-maximum-product-subarray) |
