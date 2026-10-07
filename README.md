@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anushaazmeera006-create/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/anushaazmeera006-create/DSA/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/anushaazmeera006-create/DSA/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/anushaazmeera006-create/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anushaazmeera006-create/DSA/tree/master/0053-maximum-subarray) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anushaazmeera006-create/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/anushaazmeera006-create/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/anushaazmeera006-create/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/anushaazmeera006-create/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anushaazmeera006-create/DSA/tree/master/0283-move-zeroes) |
