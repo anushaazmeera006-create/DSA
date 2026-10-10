@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/anushaazmeera006-create/DSA/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/anushaazmeera006-create/DSA/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/anushaazmeera006-create/DSA/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/anushaazmeera006-create/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anushaazmeera006-create/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/anushaazmeera006-create/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anushaazmeera006-create/DSA/tree/master/0057-insert-interval) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anushaazmeera006-create/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/anushaazmeera006-create/DSA/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/anushaazmeera006-create/DSA/tree/master/0342-power-of-four) |
 | [0400-nth-digit](https://github.com/anushaazmeera006-create/DSA/tree/master/0400-nth-digit) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anushaazmeera006-create/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/anushaazmeera006-create/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/anushaazmeera006-create/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anushaazmeera006-create/DSA/tree/master/0200-number-of-islands) |
