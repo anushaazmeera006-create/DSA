@@ -65,34 +65,59 @@
 //        return image;
 //     }
 // };
+// class Solution {
+// public:
+//     void dfs(int row, int col, vector<vector<int>>& image, int inicolor, int delx[], int dely[], int color) {
+//         image[row][col] = color;
+
+//         int m = image.size();
+//         int n = image[0].size();
+
+//         for(int i = 0; i < 4; i++) {
+//             int nrow = row + delx[i];
+//             int ncol = col + dely[i];
+
+//             if(nrow >= 0 && nrow < m && ncol >= 0 && ncol < n && image[nrow][ncol] == inicolor) {
+//                 dfs(nrow, ncol, image, inicolor, delx, dely, color);
+//             }
+//         }
+//     }
+
+//     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+//         int inicolor = image[sr][sc];
+
+//         if(inicolor == color) return image;
+
+//         int delx[] = {-1, 0, 1, 0};
+//         int dely[] = {0, 1, 0, -1};
+
+//         dfs(sr, sc, image, inicolor, delx, dely, color);
+
+//         return image;
+//     }
+// };
 class Solution {
 public:
-    void dfs(int row, int col, vector<vector<int>>& image, int inicolor, int delx[], int dely[], int color) {
-        image[row][col] = color;
-
+    void traverse(int r,int c,vector<vector<int>>& image,int color,int inicolor,int delrow[],int delcol[]){
+        image[r][c]= color;
         int m = image.size();
         int n = image[0].size();
-
-        for(int i = 0; i < 4; i++) {
-            int nrow = row + delx[i];
-            int ncol = col + dely[i];
-
-            if(nrow >= 0 && nrow < m && ncol >= 0 && ncol < n && image[nrow][ncol] == inicolor) {
-                dfs(nrow, ncol, image, inicolor, delx, dely, color);
+        for(int i=0;i<4;i++){
+            int nrow = r+delrow[i];
+            int ncol = c+delcol[i];
+            if(nrow>=0&&nrow<m &&ncol>=0 &&ncol<=n && image[nrow][ncol]==inicolor){
+                traverse(nrow,ncol,image,color,inicolor,delrow,delcol);
             }
         }
     }
 
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         int inicolor = image[sr][sc];
-
-        if(inicolor == color) return image;
-
-        int delx[] = {-1, 0, 1, 0};
-        int dely[] = {0, 1, 0, -1};
-
-        dfs(sr, sc, image, inicolor, delx, dely, color);
-
-        return image;
+      
+         if(inicolor == color) return image;
+        int delrow[]={-1,0,1,0};
+        int delcol[]= {0,1,0,-1};
+       traverse(sr,sc,image,color,inicolor,delrow,delcol);
+       return image;
     }
 };
