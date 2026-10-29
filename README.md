@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/anushaazmeera006-create/DSA/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/anushaazmeera006-create/DSA/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushaazmeera006-create/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/anushaazmeera006-create/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/anushaazmeera006-create/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/anushaazmeera006-create/DSA/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/anushaazmeera006-create/DSA/tree/master/0860-lemonade-change) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0400-nth-digit](https://github.com/anushaazmeera006-create/DSA/tree/master/0400-nth-digit) |
+| [0704-binary-search](https://github.com/anushaazmeera006-create/DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/anushaazmeera006-create/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/anushaazmeera006-create/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anushaazmeera006-create/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
